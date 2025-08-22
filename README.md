@@ -30,16 +30,17 @@ Coming Soon. Full dataset will be uploaded to cyverse.
 Test and validation set can be found at [link](https://iastate.box.com/s/25otoybllhwtfvnr1ovv26wc74ofdbso)
 
 
+### Pre-training
+
+The pre-training instruction is in [PRETRAIN.md](PRETRAIN.md).
+
+
 ### Pre-trained checkpoints for global and local Weed Models
 
 Coming Soon.
 
 The fine-tuning instruction is in [FINETUNE.md](FINETUNE.md).
 
-
-### Pre-training
-
-The pre-training instruction is in [PRETRAIN.md](PRETRAIN.md).
 
 ### Acknowledgement
 
