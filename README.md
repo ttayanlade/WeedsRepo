@@ -9,7 +9,7 @@ This is the repo for the paper [WeedNet: A Foundation Model-Based Global-to-Loca
 ```
 @article{shen2025weednet,
   title={WeedNet: A Foundation Model-Based Global-to-Local AI Approach for Real-Time Weed Species Identification and Classification},
-  author={Shen, Yanben and Ayanlade, Timilehin T and Boddepalli, Venkata Naresh and Saadati, Mojdeh and Rairdin, Ashlyn and Deng, Zi K and Arshad, Muhammad Arbab and Balu, Aditya and Mueller, Daren and Singh, Asheesh K and others},
+  author={Shen, Yanben and Ayanlade, Timilehin T. and Boddepalli, Venkata Naresh and Saadati, Mojdeh and Rairdin, Ashlyn and Deng, Zi K. and Arshad, Muhammad Arbab and Balu, Aditya and Mueller, Daren and Singh, Asheesh K. and Everman, Wesley and Merchant, Nirav and Ganapathysubramanian, Baskar and Anderson, Meaghan and Sarkar, Soumik and Singh, Arti},
   journal={arXiv preprint arXiv:2505.18930},
   year={2025}
 }
